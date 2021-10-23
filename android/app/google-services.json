@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "931638034746",
+    "firebase_url": "https://crimebuzz-bc61a.firebaseio.com",
+    "project_id": "crimebuzz-bc61a",
+    "storage_bucket": "crimebuzz-bc61a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931638034746:android:e78c9d318f0f66434b1003",
+        "android_client_info": {
+          "package_name": "com.AliK_HCI.CrimeBuzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931638034746-ah20o9p0fe61pju6tr3g76vn4i08iats.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPB3ddETg5FWhcgMdW-yHXT1UJkC7Sg-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931638034746-ah20o9p0fe61pju6tr3g76vn4i08iats.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
